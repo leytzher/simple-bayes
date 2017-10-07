@@ -22,7 +22,7 @@ This random variable will have 2 states {good, bad}. To estimate the likelihood 
 We can model this as follows:
 
 - P(L=good | M= working) = 0.99
-- P(L=bad | M= working) = 0.99
+- P(L=bad | M= working) = 0.01
 - P(L=good | M= broken) = 0.60
 - P(L=bad | M= broken) = 0.40
 
